@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>a8bb70be-dc71-4f0f-b4cc-6f083522be87</ProjectGuid>
+    <ProjectGuid>25001ff7-ed2c-4964-8205-25fdd6c8d3c2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_4.4_Listid.py</StartupFile>
+    <StartupFile>_4.4_listid.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>4.4 Listid</Name>
-    <RootNamespace>4.4 Listid</RootNamespace>
+    <Name>4.4 listid</Name>
+    <RootNamespace>4.4 listid</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_4.4_Listid.py" />
+    <Compile Include="_4.4_listid.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
