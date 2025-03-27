@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>4ac05986-2a07-4844-be25-113f62a3dc05</ProjectGuid>
+    <ProjectGuid>d975aa35-86ae-46fd-a2c4-4b22ba0dc8fd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Vigade_Otsing.py</StartupFile>
+    <StartupFile>vigade_otsing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Vigade_Otsing</Name>
-    <RootNamespace>Vigade_Otsing</RootNamespace>
+    <Name>vigade_otsing</Name>
+    <RootNamespace>vigade_otsing</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Vigade_Otsing.py" />
+    <Compile Include="vigade_otsing.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
