@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3.2_tsükkel", "3.2_tsükkel.pyproj", "{99EC7852-4358-4BDE-9DBB-A177D65B5DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EC7852-4358-4BDE-9DBB-A177D65B5DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EC7852-4358-4BDE-9DBB-A177D65B5DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED10AE0-E701-48AC-8B68-13C198067947}
+	EndGlobalSection
+EndGlobal
